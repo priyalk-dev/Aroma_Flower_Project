@@ -11,6 +11,12 @@ html{
     line-height: 20px;
     
 }
+html,body{
+   width:100%;
+   overflow-x:hidden;
+   margin:0;
+   padding:0;
+   
 h4{
     padding: 1rem;
     color: rgb(97, 29, 161);
@@ -72,14 +78,14 @@ h4{
 
     }
 img{
-    width: 350px;
+    width: 300px;
     height:70px;
 
 }
 
 .text-para{
     line-height: 2px;
-    font-size:50px;
+    font-size:30px;
 }
 .text-para1{
     line-height: 2px;
